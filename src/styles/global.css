@@ -1,0 +1,12 @@
+.box:nth-child(n) {
+  background: #aaaaaa;
+}
+.box:nth-child(2n) {
+  background: #cccccc;
+}
+.box {
+  height: 190px;
+  /* width: 190px; */
+  padding: 8px;
+  text-align: center;
+}
